@@ -1,0 +1,1 @@
+import{_ as t}from"./index.633665ee.js";import{r as a,o as e,c as o,a as n}from"./vendor.5c7d4320.js";const r={name:"Contact",data:()=>({}),components:{Feature:t}},s={class:"contact"};r.render=function(t,r,c,d,m,f){const i=a("feature");return e(),o("div",s,[n(i)])};export default r;
