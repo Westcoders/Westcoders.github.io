@@ -1,1 +1,0 @@
-import{o as t,c as a,a as n,t as c}from"./vendor.d752ebb4.js";const o={data:()=>({msg:"我是contact界面"})},s={class:"contact"},r=n("h1",null,"contact",-1);o.render=function(o,e,d,l,u,m){return t(),a("div",s,[r,n("p",null,c(u.msg),1)])};export default o;
