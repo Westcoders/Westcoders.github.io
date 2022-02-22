@@ -1,1 +1,0 @@
-import{an as a,af as n,w as u}from"./index.78902926.js";import{B as i}from"./vendor.e45423c9.js";const m=i({name:"Authority",props:{value:{type:[Number,Array,String],default:""}},setup(e,{slots:t}){const{hasPermission:o}=a();function s(){const{value:r}=e;return r?o(r)?n(t):null:n(t)}return()=>s()}}),l=u(m);export{l as A};
